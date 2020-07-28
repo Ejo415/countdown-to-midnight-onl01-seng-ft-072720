@@ -1,5 +1,5 @@
 
-num = 5
+
 
 def countdown(num)
   while num > 0 
@@ -12,4 +12,4 @@ end
 
 
 
-countdown
+countdown(10)
